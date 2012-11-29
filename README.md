@@ -16,7 +16,7 @@ What follows is a quick "first pass" for what you should be thinking about when 
 * Is the page broken down into sections with a logical heading structure?
 * Does your content use straight forward language, expand acronyms the first time they’re used, and provide explanations for necessary jargon?
 * Does your link text make sense, especially when taken out of the context of the surrounding paragraph/page?
-* When using a <code>&lt;table&rt;</code>, are table headers included and marked up appropriately?
+* When using a <code>&lt;table&gt;</code>, are table headers included and marked up appropriately?
 
 
 ## Contrast
