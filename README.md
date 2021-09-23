@@ -22,6 +22,7 @@ What follows is a quick "first pass" for what you should be thinking about when 
 ## Contrast
 * Do the foreground/background colour combinations you’re using pass the 4.5:1 ratio? Useful tool here: <a href="http://juicystudio.com/services/luminositycontrastratio.php">http://juicystudio.com/services/luminositycontrastratio.php</a>
 * Have you checked with <a href="http://michelf.ca/projects/sim-daltonism/">Sim Daltonism</a> to make sure it works across vision ranges for those who are colourblind?
+* [More resources on color contrast](https://accessibility.civicactions.com/guide/tools#color).
 
 
 ## Focus & Keyboard Access
